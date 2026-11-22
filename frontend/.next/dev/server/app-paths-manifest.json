@@ -1,0 +1,12 @@
+{
+  "/account_view/page": "app/account_view/page.js",
+  "/faculty/dashboard/page": "app/faculty/dashboard/page.js",
+  "/final-dashboard/page": "app/final-dashboard/page.js",
+  "/interests/page": "app/interests/page.js",
+  "/page": "app/page.js",
+  "/problem-statement/[id]/page": "app/problem-statement/[id]/page.js",
+  "/project-ideas/page": "app/project-ideas/page.js",
+  "/recommendation-type/page": "app/recommendation-type/page.js",
+  "/recommendations/page": "app/recommendations/page.js",
+  "/research-gaps/page": "app/research-gaps/page.js"
+}

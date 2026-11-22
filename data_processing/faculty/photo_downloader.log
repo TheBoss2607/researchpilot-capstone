@@ -1,0 +1,405 @@
+2026-11-22 17:07:12,291 | INFO | =================================================================
+2026-11-22 17:07:12,292 | INFO | PES FACULTY PHOTOGRAPH DOWNLOADER
+2026-11-22 17:07:12,292 | INFO | Faculty JSON: D:\Capstone\7th Sem 3rd Review\research-guidance-system-review3\research-guidance-system-review3\data_processing\faculty\faculty_raw.json
+2026-11-22 17:07:12,292 | INFO | Photograph directory: D:\Capstone\7th Sem 3rd Review\research-guidance-system-review3\research-guidance-system-review3\data_processing\faculty\faculty_photos
+2026-11-22 17:07:12,293 | INFO | =================================================================
+2026-11-22 17:07:12,297 | INFO | [1/181] Processing Vishwas J S
+2026-11-22 17:07:12,943 | INFO | Downloaded: Vishwas J S -> nm1060.jpg
+2026-11-22 17:07:13,948 | INFO | [2/181] Processing Dr. Deepa Nair
+2026-11-22 17:07:14,142 | INFO | Downloaded: Dr. Deepa Nair -> nm1115.jpg
+2026-11-22 17:07:15,151 | INFO | [3/181] Processing Dr. Arpita Thakre
+2026-11-22 17:07:15,333 | INFO | Downloaded: Dr. Arpita Thakre -> nm1245.jpg
+2026-11-22 17:07:16,334 | INFO | [4/181] Processing Gyanamayee Panigrahi
+2026-11-22 17:07:16,546 | INFO | Downloaded: Gyanamayee Panigrahi -> nm1352.jpg
+2026-11-22 17:07:17,549 | INFO | [5/181] Processing Vishnu K R
+2026-11-22 17:07:17,663 | WARNING | No photograph found: Vishnu K R (https://staff.pes.edu/nm1356/)
+2026-11-22 17:07:18,671 | INFO | [6/181] Processing Dr. Satish S V
+2026-11-22 17:07:18,818 | INFO | Downloaded: Dr. Satish S V -> nm1357.jpg
+2026-11-22 17:07:19,825 | INFO | [7/181] Processing Dr. Haridasa Nayak
+2026-11-22 17:07:20,011 | INFO | Downloaded: Dr. Haridasa Nayak -> nm1358.jpg
+2026-11-22 17:07:21,013 | INFO | [8/181] Processing Trishul M A
+2026-11-22 17:07:21,138 | WARNING | No photograph found: Trishul M A (https://staff.pes.edu/nm1361/)
+2026-11-22 17:07:22,149 | INFO | [9/181] Processing Vinay P
+2026-11-22 17:07:22,310 | INFO | Downloaded: Vinay P -> nm1362.jpg
+2026-11-22 17:07:23,318 | INFO | [10/181] Processing Naveen H E
+2026-11-22 17:07:23,430 | WARNING | No photograph found: Naveen H E (https://staff.pes.edu/nm1363/)
+2026-11-22 17:07:23,440 | INFO | Progress saved: 10/181
+2026-11-22 17:07:24,455 | INFO | [11/181] Processing Dr. Sandesh B J
+2026-11-22 17:07:24,653 | INFO | Downloaded: Dr. Sandesh B J -> nm1364.jpg
+2026-11-22 17:07:25,655 | INFO | [12/181] Processing Dr. Arti Arya
+2026-11-22 17:07:25,827 | INFO | Downloaded: Dr. Arti Arya -> nm1366.jpg
+2026-11-22 17:07:26,841 | INFO | [13/181] Processing Dr. Pooja Agarwal
+2026-11-22 17:07:27,042 | INFO | Downloaded: Dr. Pooja Agarwal -> nm1367.jpg
+2026-11-22 17:07:28,057 | INFO | [14/181] Processing Deepa S
+2026-11-22 17:07:28,225 | INFO | Downloaded: Deepa S -> nm1368.jpg
+2026-11-22 17:07:29,226 | INFO | [15/181] Processing Vandana M Ladwani
+2026-11-22 17:07:29,391 | INFO | Downloaded: Vandana M Ladwani -> nm1372.jpg
+2026-11-22 17:07:30,396 | INFO | [16/181] Processing Swati Pratap Jagdale
+2026-11-22 17:07:30,575 | INFO | Downloaded: Swati Pratap Jagdale -> nm1376.jpg
+2026-11-22 17:07:31,581 | INFO | [17/181] Processing Dr. Sudeepa Roy Dey
+2026-11-22 17:07:31,767 | INFO | Downloaded: Dr. Sudeepa Roy Dey -> nm1377.jpg
+2026-11-22 17:07:32,768 | INFO | [18/181] Processing Dr. Animesh Giri
+2026-11-22 17:07:32,975 | INFO | Downloaded: Dr. Animesh Giri -> nm1380.jpg
+2026-11-22 17:07:33,983 | INFO | [19/181] Processing Deepti C
+2026-11-22 17:07:34,193 | INFO | Downloaded: Deepti C -> nm1381.jpg
+2026-11-22 17:07:35,198 | INFO | [20/181] Processing Dr. Saritha
+2026-11-22 17:07:35,390 | INFO | Downloaded: Dr. Saritha -> nm1382.jpg
+2026-11-22 17:07:35,399 | INFO | Progress saved: 20/181
+2026-11-22 17:07:36,400 | INFO | [21/181] Processing Dr. Prajwala T R
+2026-11-22 17:07:36,591 | INFO | Downloaded: Dr. Prajwala T R -> nm1385.jpg
+2026-11-22 17:07:37,598 | INFO | [22/181] Processing Nivedita Kasturi
+2026-11-22 17:07:37,805 | INFO | Downloaded: Nivedita Kasturi -> nm1386.jpg
+2026-11-22 17:07:38,816 | INFO | [23/181] Processing Shilpa S
+2026-11-22 17:07:39,052 | INFO | Downloaded: Shilpa S -> nm1390.jpg
+2026-11-22 17:07:40,063 | INFO | [24/181] Processing Lakshmi Satya Vani Narayanam
+2026-11-22 17:07:40,265 | INFO | Downloaded: Lakshmi Satya Vani Narayanam -> nm1394.jpg
+2026-11-22 17:07:41,266 | INFO | [25/181] Processing Dr. Mohana Lakshmi
+2026-11-22 17:07:41,441 | INFO | Downloaded: Dr. Mohana Lakshmi -> nm1396.jpg
+2026-11-22 17:07:42,449 | INFO | [26/181] Processing Dr. Muhammad Faisal
+2026-11-22 17:07:42,661 | INFO | Downloaded: Dr. Muhammad Faisal -> nm1397.jpg
+2026-11-22 17:07:43,666 | INFO | [27/181] Processing Dr. Preeti Nair
+2026-11-22 17:07:43,852 | INFO | Downloaded: Dr. Preeti Nair -> nm1399.jpg
+2026-11-22 17:07:44,865 | INFO | [28/181] Processing Dr. Rangaswamy D R
+2026-11-22 17:07:45,072 | INFO | Downloaded: Dr. Rangaswamy D R -> nm1400.jpg
+2026-11-22 17:07:46,082 | INFO | [29/181] Processing Dr. Ravikumar R
+2026-11-22 17:07:46,269 | INFO | Downloaded: Dr. Ravikumar R -> nm1402.jpg
+2026-11-22 17:07:47,280 | INFO | [30/181] Processing Dr. Revanasiddappa M
+2026-11-22 17:07:47,503 | INFO | Downloaded: Dr. Revanasiddappa M -> nm1403.jpg
+2026-11-22 17:07:47,514 | INFO | Progress saved: 30/181
+2026-11-22 17:07:48,526 | INFO | [31/181] Processing Dr. Sivasankari V
+2026-11-22 17:07:48,699 | INFO | Downloaded: Dr. Sivasankari V -> nm1405.jpg
+2026-11-22 17:07:49,709 | INFO | [32/181] Processing Dr. Gajanan V Honnavar
+2026-11-22 17:07:49,910 | INFO | Downloaded: Dr. Gajanan V Honnavar -> nm1410.jpg
+2026-11-22 17:07:50,910 | INFO | [33/181] Processing Dr. Girish V R
+2026-11-22 17:07:51,092 | INFO | Downloaded: Dr. Girish V R -> nm1411.jpg
+2026-11-22 17:07:52,094 | INFO | [34/181] Processing Dr. G K Jagatheswari
+2026-11-22 17:07:52,283 | INFO | Downloaded: Dr. G K Jagatheswari -> nm1412.jpg
+2026-11-22 17:07:53,298 | INFO | [35/181] Processing Jeny Jijo
+2026-11-22 17:07:53,470 | INFO | Downloaded: Jeny Jijo -> nm1413.jpg
+2026-11-22 17:07:54,478 | INFO | [36/181] Processing Dr. Subhash Kulkarni
+2026-11-22 17:07:54,658 | INFO | Downloaded: Dr. Subhash Kulkarni -> nm1416.jpg
+2026-11-22 17:07:55,664 | INFO | [37/181] Processing Dr. Ajey S N R
+2026-11-22 17:07:55,851 | INFO | Downloaded: Dr. Ajey S N R -> nm1417.jpg
+2026-11-22 17:07:56,866 | INFO | [38/181] Processing Dr. Shashidhar Tantry
+2026-11-22 17:07:57,114 | INFO | Downloaded: Dr. Shashidhar Tantry -> nm1418.jpg
+2026-11-22 17:07:58,122 | INFO | [39/181] Processing Dr. B Sireesha
+2026-11-22 17:07:58,299 | INFO | Downloaded: Dr. B Sireesha -> nm1419.jpg
+2026-11-22 17:07:59,307 | INFO | [40/181] Processing Mahesh Awati
+2026-11-22 17:07:59,486 | INFO | Downloaded: Mahesh Awati -> nm1421.jpg
+2026-11-22 17:07:59,496 | INFO | Progress saved: 40/181
+2026-11-22 17:08:00,506 | INFO | [41/181] Processing Dr. Bajarangbali
+2026-11-22 17:08:00,783 | INFO | Downloaded: Dr. Bajarangbali -> nm1424.jpg
+2026-11-22 17:08:01,797 | INFO | [42/181] Processing Dhanashree G Bhate
+2026-11-22 17:08:02,044 | INFO | Downloaded: Dhanashree G Bhate -> nm1425.jpg
+2026-11-22 17:08:03,046 | INFO | [43/181] Processing Lokesh L
+2026-11-22 17:08:03,277 | INFO | Downloaded: Lokesh L -> nm1426.jpg
+2026-11-22 17:08:04,292 | INFO | [44/181] Processing Muralidhar Shanbhag
+2026-11-22 17:08:04,490 | INFO | Downloaded: Muralidhar Shanbhag -> nm1427.jpg
+2026-11-22 17:08:05,495 | INFO | [45/181] Processing Dr. Chiranjeevi G N
+2026-11-22 17:08:05,698 | INFO | Downloaded: Dr. Chiranjeevi G N -> nm1428.jpg
+2026-11-22 17:08:06,711 | INFO | [46/181] Processing Prahlad D
+2026-11-22 17:08:06,901 | INFO | Downloaded: Prahlad D -> nm1429.jpg
+2026-11-22 17:08:07,901 | INFO | [47/181] Processing Shreyus Goutham Kumar
+2026-11-22 17:08:08,096 | INFO | Downloaded: Shreyus Goutham Kumar -> nm1430.jpg
+2026-11-22 17:08:09,103 | INFO | [48/181] Processing Bivas Bhattacharya
+2026-11-22 17:08:09,281 | INFO | Downloaded: Bivas Bhattacharya -> nm1432.jpg
+2026-11-22 17:08:10,291 | INFO | [49/181] Processing Rajesh C
+2026-11-22 17:08:10,478 | INFO | Downloaded: Rajesh C -> nm1433.jpg
+2026-11-22 17:08:11,493 | INFO | [50/181] Processing Renuka R Kajur
+2026-11-22 17:08:11,673 | INFO | Downloaded: Renuka R Kajur -> nm1434.jpg
+2026-11-22 17:08:11,682 | INFO | Progress saved: 50/181
+2026-11-22 17:08:12,698 | INFO | [51/181] Processing Dr. Ananda M
+2026-11-22 17:08:12,887 | INFO | Downloaded: Dr. Ananda M -> nm1435.jpg
+2026-11-22 17:08:13,898 | INFO | [52/181] Processing Vinay Reddy
+2026-11-22 17:08:14,076 | INFO | Downloaded: Vinay Reddy -> nm1436.jpg
+2026-11-22 17:08:15,082 | INFO | [53/181] Processing Sanket
+2026-11-22 17:08:15,279 | INFO | Downloaded: Sanket -> nm1438.jpg
+2026-11-22 17:08:16,283 | INFO | [54/181] Processing Dr. Saravanan J
+2026-11-22 17:08:16,395 | WARNING | No photograph found: Dr. Saravanan J (https://staff.pes.edu/nm1446/)
+2026-11-22 17:08:17,410 | INFO | [55/181] Processing Dr. Srinivasan R
+2026-11-22 17:08:17,633 | INFO | Downloaded: Dr. Srinivasan R -> nm1447.jpg
+2026-11-22 17:08:18,642 | INFO | [56/181] Processing Vijayanthimala purushothaman
+2026-11-22 17:08:18,747 | WARNING | No photograph found: Vijayanthimala purushothaman (https://staff.pes.edu/nm1452/)
+2026-11-22 17:08:19,749 | INFO | [57/181] Processing Biswa ranjan patra
+2026-11-22 17:08:19,919 | INFO | Downloaded: Biswa ranjan patra -> nm1453.jpg
+2026-11-22 17:08:20,924 | INFO | [58/181] Processing Dr. Girija K
+2026-11-22 17:08:21,102 | INFO | Downloaded: Dr. Girija K -> nm1454.jpg
+2026-11-22 17:08:22,118 | INFO | [59/181] Processing Vinutha Bhat
+2026-11-22 17:08:22,282 | INFO | Downloaded: Vinutha Bhat -> nm1455.jpg
+2026-11-22 17:08:23,296 | INFO | [60/181] Processing Dr. Mukund Handral
+2026-11-22 17:08:23,457 | INFO | Downloaded: Dr. Mukund Handral -> nm1459.jpg
+2026-11-22 17:08:23,469 | INFO | Progress saved: 60/181
+2026-11-22 17:08:24,484 | INFO | [61/181] Processing Anudeep Seemalamudi Mallesh
+2026-11-22 17:08:24,598 | WARNING | No photograph found: Anudeep Seemalamudi Mallesh (https://staff.pes.edu/nm1513/)
+2026-11-22 17:08:25,607 | INFO | [62/181] Processing Dr. Prashanth Athri
+2026-11-22 17:08:25,728 | WARNING | No photograph found: Dr. Prashanth Athri (https://staff.pes.edu/nm1514/)
+2026-11-22 17:08:26,740 | INFO | [63/181] Processing Dr. Vinodha K
+2026-11-22 17:08:26,919 | INFO | Downloaded: Dr. Vinodha K -> nm1515.jpg
+2026-11-22 17:08:27,929 | INFO | [64/181] Processing Dr. Kamatchi Priya L
+2026-11-22 17:08:28,098 | INFO | Downloaded: Dr. Kamatchi Priya L -> nm1516.jpg
+2026-11-22 17:08:29,101 | INFO | [65/181] Processing Nithyashree R V
+2026-11-22 17:08:29,278 | INFO | Downloaded: Nithyashree R V -> nm1517.jpg
+2026-11-22 17:08:30,289 | INFO | [66/181] Processing Ruby Dinakar J
+2026-11-22 17:08:30,463 | INFO | Downloaded: Ruby Dinakar J -> nm1519.jpg
+2026-11-22 17:08:31,478 | INFO | [67/181] Processing Dr. Divyaprabha K N
+2026-11-22 17:08:31,682 | INFO | Downloaded: Dr. Divyaprabha K N -> nm1521.jpg
+2026-11-22 17:08:32,683 | INFO | [68/181] Processing Sheela Devi M
+2026-11-22 17:08:32,885 | INFO | Downloaded: Sheela Devi M -> nm1523.jpg
+2026-11-22 17:08:33,896 | INFO | [69/181] Processing Ravishankar M K
+2026-11-22 17:08:34,061 | INFO | Downloaded: Ravishankar M K -> nm1524.jpg
+2026-11-22 17:08:35,064 | INFO | [70/181] Processing Dr. Harish N
+2026-11-22 17:08:35,270 | INFO | Downloaded: Dr. Harish N -> nm1525.jpg
+2026-11-22 17:08:35,279 | INFO | Progress saved: 70/181
+2026-11-22 17:08:36,295 | INFO | [71/181] Processing Mamatha Shankar
+2026-11-22 17:08:36,414 | WARNING | No photograph found: Mamatha Shankar (https://staff.pes.edu/nm1532/)
+2026-11-22 17:08:37,415 | INFO | [72/181] Processing Ajoy Kumar
+2026-11-22 17:08:37,452 | ERROR | Photograph download failed for Ajoy Kumar
+Traceback (most recent call last):
+  File "D:\Capstone\7th Sem 3rd Review\research-guidance-system-review3\research-guidance-system-review3\data_processing\faculty\download_faculty_photos.py", line 485, in main
+    result = process_faculty(record)
+  File "D:\Capstone\7th Sem 3rd Review\research-guidance-system-review3\research-guidance-system-review3\data_processing\faculty\download_faculty_photos.py", line 412, in process_faculty
+    response.raise_for_status()
+  File "C:\Python39\lib\site-packages\requests\models.py", line 1022, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://staff.pes.edu/nm1536/
+2026-11-22 17:08:38,460 | INFO | [73/181] Processing Shruthi L
+2026-11-22 17:08:38,626 | INFO | Downloaded: Shruthi L -> nm1537.jpg
+2026-11-22 17:08:39,627 | INFO | [74/181] Processing Dr. Chandrashekhar P Chavan
+2026-11-22 17:08:39,862 | INFO | Downloaded: Dr. Chandrashekhar P Chavan -> nm1538.jpg
+2026-11-22 17:08:40,874 | INFO | [75/181] Processing Dr. Gauri Sameer Rapate
+2026-11-22 17:08:41,046 | INFO | Downloaded: Dr. Gauri Sameer Rapate -> nm1539.jpg
+2026-11-22 17:08:42,060 | INFO | [76/181] Processing Dr. Satish C S
+2026-11-22 17:08:42,252 | INFO | Downloaded: Dr. Satish C S -> nm1543.jpg
+2026-11-22 17:08:43,263 | INFO | [77/181] Processing Usha Rani S
+2026-11-22 17:08:43,385 | WARNING | No photograph found: Usha Rani S (https://staff.pes.edu/nm1544/)
+2026-11-22 17:08:44,398 | INFO | [78/181] Processing Dr. Lakshman K
+2026-11-22 17:08:44,607 | INFO | Downloaded: Dr. Lakshman K -> nm1547.jpg
+2026-11-22 17:08:45,618 | INFO | [79/181] Processing Dr. Nagaraj
+2026-11-22 17:08:45,773 | INFO | Downloaded: Dr. Nagaraj -> nm1548.jpg
+2026-11-22 17:08:46,788 | INFO | [80/181] Processing Mohana Roopa E
+2026-11-22 17:08:46,936 | INFO | Downloaded: Mohana Roopa E -> nm1549.jpg
+2026-11-22 17:08:46,947 | INFO | Progress saved: 80/181
+2026-11-22 17:08:47,962 | INFO | [81/181] Processing Sripriya Sourabh
+2026-11-22 17:08:48,151 | INFO | Downloaded: Sripriya Sourabh -> nm1570.jpg
+2026-11-22 17:08:49,164 | INFO | [82/181] Processing Dr. Kokila P
+2026-11-22 17:08:49,339 | INFO | Downloaded: Dr. Kokila P -> nm1580.jpg
+2026-11-22 17:08:50,341 | INFO | [83/181] Processing Dr. Geetha D
+2026-11-22 17:08:50,541 | INFO | Downloaded: Dr. Geetha D -> nm1581.jpg
+2026-11-22 17:08:51,556 | INFO | [84/181] Processing Dr. Gokul Kannan Sadasivam
+2026-11-22 17:08:51,730 | INFO | Downloaded: Dr. Gokul Kannan Sadasivam -> nm1598.jpg
+2026-11-22 17:08:52,741 | INFO | [85/181] Processing Dr. Nazmin Begum
+2026-11-22 17:08:52,916 | INFO | Downloaded: Dr. Nazmin Begum -> nm1603.jpg
+2026-11-22 17:08:53,928 | INFO | [86/181] Processing Dr. Komala B
+2026-11-22 17:08:54,099 | INFO | Downloaded: Dr. Komala B -> nm1623.jpg
+2026-11-22 17:08:55,111 | INFO | [87/181] Processing Dr. Rupa Sarkar
+2026-11-22 17:08:55,287 | INFO | Downloaded: Dr. Rupa Sarkar -> nm1624.jpg
+2026-11-22 17:08:56,297 | INFO | [88/181] Processing Soumya vijaykumar sirsali
+2026-11-22 17:08:56,454 | INFO | Downloaded: Soumya vijaykumar sirsali -> nm1627.jpg
+2026-11-22 17:08:57,468 | INFO | [89/181] Processing Asha A
+2026-11-22 17:08:57,648 | INFO | Downloaded: Asha A -> nm1630.jpg
+2026-11-22 17:08:58,653 | INFO | [90/181] Processing Dr. Prema R
+2026-11-22 17:08:58,812 | INFO | Downloaded: Dr. Prema R -> nm1632.jpg
+2026-11-22 17:08:58,822 | INFO | Progress saved: 90/181
+2026-11-22 17:08:59,823 | INFO | [91/181] Processing Omkar Mukesh Sharma
+2026-11-22 17:09:00,011 | INFO | Downloaded: Omkar Mukesh Sharma -> nm1661.jpg
+2026-11-22 17:09:01,025 | INFO | [92/181] Processing Dr. Preeti Garg
+2026-11-22 17:09:01,214 | INFO | Downloaded: Dr. Preeti Garg -> nm1673.jpg
+2026-11-22 17:09:02,227 | INFO | [93/181] Processing Pranjali Swapnil Thakre
+2026-11-22 17:09:02,501 | INFO | Downloaded: Pranjali Swapnil Thakre -> nm1689.jpg
+2026-11-22 17:09:03,506 | INFO | [94/181] Processing Umme Haani
+2026-11-22 17:09:03,724 | INFO | Downloaded: Umme Haani -> nm1691.jpg
+2026-11-22 17:09:04,739 | INFO | [95/181] Processing Divya Ebenezer Nathaniel
+2026-11-22 17:09:04,903 | INFO | Downloaded: Divya Ebenezer Nathaniel -> nm1692.jpg
+2026-11-22 17:09:05,910 | INFO | [96/181] Processing Dr. Devipriya Anand
+2026-11-22 17:09:06,157 | INFO | Downloaded: Dr. Devipriya Anand -> nm1695.jpg
+2026-11-22 17:09:07,158 | INFO | [97/181] Processing Swetha Patil
+2026-11-22 17:09:07,371 | INFO | Downloaded: Swetha Patil -> nm1709.jpg
+2026-11-22 17:09:08,371 | INFO | [98/181] Processing Dr. Saniya Jawed
+2026-11-22 17:09:08,574 | INFO | Downloaded: Dr. Saniya Jawed -> nm1725.jpg
+2026-11-22 17:09:09,581 | INFO | [99/181] Processing Neha Sharma
+2026-11-22 17:09:09,759 | INFO | Downloaded: Neha Sharma -> nm1736.jpg
+2026-11-22 17:09:10,771 | INFO | [100/181] Processing Pavithra S
+2026-11-22 17:09:10,971 | INFO | Downloaded: Pavithra S -> nm1737.jpg
+2026-11-22 17:09:10,981 | INFO | Progress saved: 100/181
+2026-11-22 17:09:11,992 | INFO | [101/181] Processing Ramakrishna C
+2026-11-22 17:09:12,175 | INFO | Downloaded: Ramakrishna C -> nm1739.jpg
+2026-11-22 17:09:13,178 | INFO | [102/181] Processing Yaswanth Murthaeti
+2026-11-22 17:09:13,307 | WARNING | No photograph found: Yaswanth Murthaeti (https://staff.pes.edu/nm1740/)
+2026-11-22 17:09:14,317 | INFO | [103/181] Processing Jeeva Jyothi V
+2026-11-22 17:09:14,469 | WARNING | No photograph found: Jeeva Jyothi V (https://staff.pes.edu/nm1741/)
+2026-11-22 17:09:15,482 | INFO | [104/181] Processing Dr. Panner Selvam R
+2026-11-22 17:09:15,598 | WARNING | No photograph found: Dr. Panner Selvam R (https://staff.pes.edu/nm1742/)
+2026-11-22 17:09:16,608 | INFO | [105/181] Processing Kanchan Singh
+2026-11-22 17:09:16,720 | WARNING | No photograph found: Kanchan Singh (https://staff.pes.edu/nm1743/)
+2026-11-22 17:09:17,733 | INFO | [106/181] Processing Rashmitha N M
+2026-11-22 17:09:17,850 | WARNING | No photograph found: Rashmitha N M (https://staff.pes.edu/nm1744/)
+2026-11-22 17:09:18,855 | INFO | [107/181] Processing Ananya K U
+2026-11-22 17:09:18,989 | WARNING | No photograph found: Ananya K U (https://staff.pes.edu/nm1745/)
+2026-11-22 17:09:19,995 | INFO | [108/181] Processing Arpitha Jena
+2026-11-22 17:09:20,102 | WARNING | No photograph found: Arpitha Jena (https://staff.pes.edu/nm1746/)
+2026-11-22 17:09:21,116 | INFO | [109/181] Processing Silkame N Marak
+2026-11-22 17:09:21,230 | WARNING | No photograph found: Silkame N Marak (https://staff.pes.edu/nm1747/)
+2026-11-22 17:09:22,239 | INFO | [110/181] Processing Prathiba R
+2026-11-22 17:09:22,372 | WARNING | No photograph found: Prathiba R (https://staff.pes.edu/nm1748/)
+2026-11-22 17:09:22,382 | INFO | Progress saved: 110/181
+2026-11-22 17:09:23,393 | INFO | [111/181] Processing Nivedita Deogade Chaudhari
+2026-11-22 17:09:23,514 | WARNING | No photograph found: Nivedita Deogade Chaudhari (https://staff.pes.edu/nm1749/)
+2026-11-22 17:09:24,530 | INFO | [112/181] Processing Dr. Anju Sarah Mathews
+2026-11-22 17:09:24,645 | WARNING | No photograph found: Dr. Anju Sarah Mathews (https://staff.pes.edu/nm1750/)
+2026-11-22 17:09:25,656 | INFO | [113/181] Processing Dr. Manjari Sharma
+2026-11-22 17:09:25,774 | WARNING | No photograph found: Dr. Manjari Sharma (https://staff.pes.edu/nm1751/)
+2026-11-22 17:09:26,779 | INFO | [114/181] Processing Dr. Varsha Iranna Dalal
+2026-11-22 17:09:26,972 | INFO | Downloaded: Dr. Varsha Iranna Dalal -> nm1752.jpg
+2026-11-22 17:09:27,984 | INFO | [115/181] Processing Dr. Swathy Suresh
+2026-11-22 17:09:28,096 | WARNING | No photograph found: Dr. Swathy Suresh (https://staff.pes.edu/nm1753/)
+2026-11-22 17:09:29,108 | INFO | [116/181] Processing Chandini C
+2026-11-22 17:09:29,240 | WARNING | No photograph found: Chandini C (https://staff.pes.edu/nm1754/)
+2026-11-22 17:09:30,246 | INFO | [117/181] Processing Dr. Farida Begam M
+2026-11-22 17:09:30,484 | INFO | Downloaded: Dr. Farida Begam M -> nm1759.jpg
+2026-11-22 17:09:31,494 | INFO | [118/181] Processing Lenish Pramiee
+2026-11-22 17:09:31,682 | INFO | Downloaded: Lenish Pramiee -> nm1764.jpg
+2026-11-22 17:09:32,692 | INFO | [119/181] Processing Swathi Priya N
+2026-11-22 17:09:32,864 | INFO | Downloaded: Swathi Priya N -> nm1788.jpg
+2026-11-22 17:09:33,878 | INFO | [120/181] Processing Nagalakshmi S R
+2026-11-22 17:09:34,066 | INFO | Downloaded: Nagalakshmi S R -> nm1800.jpg
+2026-11-22 17:09:34,076 | INFO | Progress saved: 120/181
+2026-11-22 17:09:35,091 | INFO | [121/181] Processing Dr. Vaishali Shinde
+2026-11-22 17:09:35,279 | INFO | Downloaded: Dr. Vaishali Shinde -> nm1801.jpg
+2026-11-22 17:09:36,291 | INFO | [122/181] Processing Dr. Sharavana K
+2026-11-22 17:09:36,461 | INFO | Downloaded: Dr. Sharavana K -> nm1809.jpg
+2026-11-22 17:09:37,476 | INFO | [123/181] Processing Dr. Richa Sharma
+2026-11-22 17:09:37,666 | INFO | Downloaded: Dr. Richa Sharma -> nm1810.jpg
+2026-11-22 17:09:38,680 | INFO | [124/181] Processing Dr. Manju
+2026-11-22 17:09:38,850 | INFO | Downloaded: Dr. Manju -> nm1821.jpg
+2026-11-22 17:09:39,863 | INFO | [125/181] Processing Dr. Monika Goyal
+2026-11-22 17:09:40,028 | INFO | Downloaded: Dr. Monika Goyal -> nm1822.jpg
+2026-11-22 17:09:41,034 | INFO | [126/181] Processing Dr. Gamini Joshi
+2026-11-22 17:09:41,186 | INFO | Downloaded: Dr. Gamini Joshi -> nm1823.jpg
+2026-11-22 17:09:42,197 | INFO | [127/181] Processing Nilanjana Ghosh
+2026-11-22 17:09:42,373 | INFO | Downloaded: Nilanjana Ghosh -> nm1835.jpg
+2026-11-22 17:09:43,375 | INFO | [128/181] Processing Bhagyalakshmi
+2026-11-22 17:09:43,559 | INFO | Downloaded: Bhagyalakshmi -> nm1836.jpg
+2026-11-22 17:09:44,574 | INFO | [129/181] Processing Vinuta Ashok Badiger
+2026-11-22 17:09:44,757 | INFO | Downloaded: Vinuta Ashok Badiger -> nm1837.jpg
+2026-11-22 17:09:45,760 | INFO | [130/181] Processing Dr. Divya B Acharya
+2026-11-22 17:09:45,989 | INFO | Downloaded: Dr. Divya B Acharya -> nm1838.jpg
+2026-11-22 17:09:46,000 | INFO | Progress saved: 130/181
+2026-11-22 17:09:47,010 | INFO | [131/181] Processing Dr. Anuradha Bhattacharjee
+2026-11-22 17:09:47,185 | INFO | Downloaded: Dr. Anuradha Bhattacharjee -> nm1839.jpg
+2026-11-22 17:09:48,194 | INFO | [132/181] Processing Tabassum Sulthana T
+2026-11-22 17:09:48,368 | INFO | Downloaded: Tabassum Sulthana T -> nm1840.jpg
+2026-11-22 17:09:49,379 | INFO | [133/181] Processing Arun Kumar
+2026-11-22 17:09:49,561 | INFO | Downloaded: Arun Kumar -> nm1841.jpg
+2026-11-22 17:09:50,561 | INFO | [134/181] Processing Preeti Parashuram Palkar
+2026-11-22 17:09:50,775 | INFO | Downloaded: Preeti Parashuram Palkar -> nm1842.jpg
+2026-11-22 17:09:51,784 | INFO | [135/181] Processing Girisha T N
+2026-11-22 17:09:51,984 | INFO | Downloaded: Girisha T N -> nm1843.jpg
+2026-11-22 17:09:52,990 | INFO | [136/181] Processing Raghavendra Ganapati Naik
+2026-11-22 17:09:53,186 | INFO | Downloaded: Raghavendra Ganapati Naik -> nm1844.jpg
+2026-11-22 17:09:54,189 | INFO | [137/181] Processing Dr. Rahul S
+2026-11-22 17:09:54,366 | INFO | Downloaded: Dr. Rahul S -> nm1845.jpg
+2026-11-22 17:09:55,370 | INFO | [138/181] Processing Dr. Deepu P Nair
+2026-11-22 17:09:55,580 | INFO | Downloaded: Dr. Deepu P Nair -> nm1846.jpg
+2026-11-22 17:09:56,582 | INFO | [139/181] Processing Dr. Manasa M
+2026-11-22 17:09:56,771 | INFO | Downloaded: Dr. Manasa M -> nm1847.jpg
+2026-11-22 17:09:57,778 | INFO | [140/181] Processing Swetha N
+2026-11-22 17:09:57,979 | INFO | Downloaded: Swetha N -> nm1848.jpg
+2026-11-22 17:09:57,989 | INFO | Progress saved: 140/181
+2026-11-22 17:09:58,991 | INFO | [141/181] Processing Dr. Kavitha P
+2026-11-22 17:09:59,171 | INFO | Downloaded: Dr. Kavitha P -> nm1849.jpg
+2026-11-22 17:10:00,179 | INFO | [142/181] Processing Dr. R Nandhi Kesavan
+2026-11-22 17:10:00,429 | INFO | Downloaded: Dr. R Nandhi Kesavan -> nm1850.jpg
+2026-11-22 17:10:01,444 | INFO | [143/181] Processing Uday Bhaskar
+2026-11-22 17:10:01,600 | WARNING | No photograph found: Uday Bhaskar (https://staff.pes.edu/nm1851/)
+2026-11-22 17:10:02,602 | INFO | [144/181] Processing Rajesh N
+2026-11-22 17:10:02,887 | INFO | Downloaded: Rajesh N -> nm1854.jpg
+2026-11-22 17:10:03,901 | INFO | [145/181] Processing Thulasi R
+2026-11-22 17:10:04,174 | INFO | Downloaded: Thulasi R -> nm1855.jpg
+2026-11-22 17:10:05,176 | INFO | [146/181] Processing Pratiksha P
+2026-11-22 17:10:05,370 | WARNING | No photograph found: Pratiksha P (https://staff.pes.edu/nm1857/)
+2026-11-22 17:10:06,379 | INFO | [147/181] Processing Chandana D N
+2026-11-22 17:10:06,572 | INFO | Downloaded: Chandana D N -> nm1858.jpg
+2026-11-22 17:10:07,577 | INFO | [148/181] Processing Dr. Kumar Raja N P
+2026-11-22 17:10:07,800 | INFO | Downloaded: Dr. Kumar Raja N P -> nm1859.jpg
+2026-11-22 17:10:08,806 | INFO | [149/181] Processing Dr. Benila Susan Jacob
+2026-11-22 17:10:09,014 | INFO | Downloaded: Dr. Benila Susan Jacob -> nm1861.jpg
+2026-11-22 17:10:10,020 | INFO | [150/181] Processing Anooja Varghese
+2026-11-22 17:10:10,239 | INFO | Downloaded: Anooja Varghese -> nm1863.jpg
+2026-11-22 17:10:10,250 | INFO | Progress saved: 150/181
+2026-11-22 17:10:11,252 | INFO | [151/181] Processing Dr. Sangeetha S
+2026-11-22 17:10:11,457 | INFO | Downloaded: Dr. Sangeetha S -> nm1864.jpg
+2026-11-22 17:10:12,465 | INFO | [152/181] Processing Dr. Aditi Singh
+2026-11-22 17:10:12,668 | INFO | Downloaded: Dr. Aditi Singh -> nm1870.jpg
+2026-11-22 17:10:13,668 | INFO | [153/181] Processing Dr. Tania Bose
+2026-11-22 17:10:13,899 | INFO | Downloaded: Dr. Tania Bose -> nm1896.jpg
+2026-11-22 17:10:14,900 | INFO | [154/181] Processing Gopal Vengatachalam
+2026-11-22 17:10:15,132 | INFO | Downloaded: Gopal Vengatachalam -> nm1900.png
+2026-11-22 17:10:16,134 | INFO | [155/181] Processing Barathi G C
+2026-11-22 17:10:16,359 | INFO | Downloaded: Barathi G C -> nm1901.jpg
+2026-11-22 17:10:17,365 | INFO | [156/181] Processing Dr. Pradeep Kumar Kenny S
+2026-11-22 17:10:17,490 | WARNING | No photograph found: Dr. Pradeep Kumar Kenny S (https://staff.pes.edu/nm1904/)
+2026-11-22 17:10:18,501 | INFO | [157/181] Processing Ankita Singhai
+2026-11-22 17:10:18,721 | INFO | Downloaded: Ankita Singhai -> nm1922.jpg
+2026-11-22 17:10:19,736 | INFO | [158/181] Processing Vanitha A N
+2026-11-22 17:10:19,910 | INFO | Downloaded: Vanitha A N -> nm1923.jpg
+2026-11-22 17:10:20,923 | INFO | [159/181] Processing Sonika Mohan S
+2026-11-22 17:10:21,146 | INFO | Downloaded: Sonika Mohan S -> nm1927.jpg
+2026-11-22 17:10:22,160 | INFO | [160/181] Processing Dr. Gokulakrishnan S
+2026-11-22 17:10:22,402 | INFO | Downloaded: Dr. Gokulakrishnan S -> nm1939.jpg
+2026-11-22 17:10:22,412 | INFO | Progress saved: 160/181
+2026-11-22 17:10:23,422 | INFO | [161/181] Processing Sowmya A M
+2026-11-22 17:10:23,613 | INFO | Downloaded: Sowmya A M -> nm1940.jpg
+2026-11-22 17:10:24,621 | INFO | [162/181] Processing Senthil Anandhi Avanashilingam
+2026-11-22 17:10:24,798 | INFO | Downloaded: Senthil Anandhi Avanashilingam -> nm1941.jpg
+2026-11-22 17:10:25,811 | INFO | [163/181] Processing Dr. M Shalima Sulthana
+2026-11-22 17:10:26,026 | INFO | Downloaded: Dr. M Shalima Sulthana -> nm1962.jpg
+2026-11-22 17:10:27,028 | INFO | [164/181] Processing Dr. Ashwini Kodipalli
+2026-11-22 17:10:27,211 | INFO | Downloaded: Dr. Ashwini Kodipalli -> nm1963.jpg
+2026-11-22 17:10:28,224 | INFO | [165/181] Processing Remya Sivan
+2026-11-22 17:10:28,410 | INFO | Downloaded: Remya Sivan -> nm1964.jpg
+2026-11-22 17:10:29,425 | INFO | [166/181] Processing Dr. SibaRam
+2026-11-22 17:10:29,614 | INFO | Downloaded: Dr. SibaRam -> nm1965.jpg
+2026-11-22 17:10:30,627 | INFO | [167/181] Processing Dr. Vishnu Shankar Tiwari
+2026-11-22 17:10:30,834 | INFO | Downloaded: Dr. Vishnu Shankar Tiwari -> nm1966.jpg
+2026-11-22 17:10:31,845 | INFO | [168/181] Processing R Thangamani
+2026-11-22 17:10:32,019 | INFO | Downloaded: R Thangamani -> nm1967.jpg
+2026-11-22 17:10:33,034 | INFO | [169/181] Processing Dr. Sindhu D G
+2026-11-22 17:10:33,211 | INFO | Downloaded: Dr. Sindhu D G -> nm1971.jpg
+2026-11-22 17:10:34,212 | INFO | [170/181] Processing Dr. Raksha
+2026-11-22 17:10:34,395 | INFO | Downloaded: Dr. Raksha -> nm1972.jpg
+2026-11-22 17:10:34,407 | INFO | Progress saved: 170/181
+2026-11-22 17:10:35,411 | INFO | [171/181] Processing Dr. Gayathri R Pisharody
+2026-11-22 17:10:35,611 | INFO | Downloaded: Dr. Gayathri R Pisharody -> nm1973.jpg
+2026-11-22 17:10:36,612 | INFO | [172/181] Processing Dr. Sourav Das
+2026-11-22 17:10:36,846 | INFO | Downloaded: Dr. Sourav Das -> nm1974.jpg
+2026-11-22 17:10:37,861 | INFO | [173/181] Processing Shravya C
+2026-11-22 17:10:38,042 | INFO | Downloaded: Shravya C -> nm1975.jpg
+2026-11-22 17:10:39,047 | INFO | [174/181] Processing Lavanya S
+2026-11-22 17:10:39,231 | INFO | Downloaded: Lavanya S -> nm1976.jpg
+2026-11-22 17:10:40,247 | INFO | [175/181] Processing Ramya Sri Chaganti
+2026-11-22 17:10:40,440 | INFO | Downloaded: Ramya Sri Chaganti -> nm1978.jpg
+2026-11-22 17:10:41,447 | INFO | [176/181] Processing K SathiyaPriya
+2026-11-22 17:10:41,622 | INFO | Downloaded: K SathiyaPriya -> nm1985.jpg
+2026-11-22 17:10:42,630 | INFO | [177/181] Processing R Selvakumar
+2026-11-22 17:10:42,808 | INFO | Downloaded: R Selvakumar -> nm1986.jpg
+2026-11-22 17:10:43,820 | INFO | [178/181] Processing Vinu J
+2026-11-22 17:10:43,979 | INFO | Downloaded: Vinu J -> nm1996.jpg
+2026-11-22 17:10:44,993 | INFO | [179/181] Processing ASHA KUMARI A
+2026-11-22 17:10:45,181 | INFO | Downloaded: ASHA KUMARI A -> nm1997.jpg
+2026-11-22 17:10:46,191 | INFO | [180/181] Processing SUPREETHA S
+2026-11-22 17:10:46,403 | INFO | Downloaded: SUPREETHA S -> nm1999.jpg
+2026-11-22 17:10:46,415 | INFO | Progress saved: 180/181
+2026-11-22 17:10:47,427 | INFO | [181/181] Processing Pavithra P
+2026-11-22 17:10:47,614 | INFO | Downloaded: Pavithra P -> nm2001.jpg
+2026-11-22 17:10:47,625 | INFO | Progress saved: 181/181
+2026-11-22 17:10:48,640 | INFO | =================================================================
+2026-11-22 17:10:48,640 | INFO | PHOTOGRAPH DOWNLOADING COMPLETE
+2026-11-22 17:10:48,640 | INFO | Total faculty records: 181
+2026-11-22 17:10:48,640 | INFO | Downloaded: 154
+2026-11-22 17:10:48,640 | INFO | Already available: 0
+2026-11-22 17:10:48,640 | INFO | Not found: 26
+2026-11-22 17:10:48,641 | INFO | Failed: 1
+2026-11-22 17:10:48,641 | INFO | Photograph directory: D:\Capstone\7th Sem 3rd Review\research-guidance-system-review3\research-guidance-system-review3\data_processing\faculty\faculty_photos
+2026-11-22 17:10:48,641 | INFO | Updated faculty JSON: D:\Capstone\7th Sem 3rd Review\research-guidance-system-review3\research-guidance-system-review3\data_processing\faculty\faculty_raw.json
+2026-11-22 17:10:48,641 | INFO | Failed records: D:\Capstone\7th Sem 3rd Review\research-guidance-system-review3\research-guidance-system-review3\data_processing\faculty\failed_photos.json
+2026-11-22 17:10:48,641 | INFO | =================================================================

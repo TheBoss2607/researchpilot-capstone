@@ -1,0 +1,21 @@
+[
+  {
+    "source": "OpenAlex API",
+    "target_new_papers": 200,
+    "new_papers_downloaded": 200,
+    "total_work_records_after_merge": 211,
+    "total_work_records_with_abstracts": 206,
+    "new_papers_by_research_area": {
+      "Computer Science and AI": 120,
+      "Engineering and Technology": 25,
+      "Medicine and Health Sciences": 15,
+      "Biology and Life Sciences": 10,
+      "Business and Economics": 10,
+      "Psychology and Cognitive Science": 5,
+      "Environmental and Earth Sciences": 5,
+      "Physics and Mathematics": 5,
+      "Education and Social Sciences": 5
+    },
+    "note": "Metadata and abstracts only; no PDFs downloaded. Existing records preserved and merged by OpenAlex ID."
+  }
+]
